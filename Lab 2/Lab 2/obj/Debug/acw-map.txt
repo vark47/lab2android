@@ -1,0 +1,8 @@
+Lab_2.TheCodeActivity, Lab 2;md5a823a09e9dcde5d832a3c3652d4e0f9d.TheCodeActivity
+Lab_2.TheCodeActivity, Lab 2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a823a09e9dcde5d832a3c3652d4e0f9d.TheCodeActivity
+Lab_2.TheCodeActivity;md5a823a09e9dcde5d832a3c3652d4e0f9d.TheCodeActivity
+lab_2.TheCodeActivity;md5a823a09e9dcde5d832a3c3652d4e0f9d.TheCodeActivity
+Lab_2.MainActivity, Lab 2;md5a823a09e9dcde5d832a3c3652d4e0f9d.MainActivity
+Lab_2.MainActivity, Lab 2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a823a09e9dcde5d832a3c3652d4e0f9d.MainActivity
+Lab_2.MainActivity;md5a823a09e9dcde5d832a3c3652d4e0f9d.MainActivity
+lab_2.MainActivity;md5a823a09e9dcde5d832a3c3652d4e0f9d.MainActivity

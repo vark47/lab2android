@@ -1,0 +1,43 @@
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\obj\Debug\Lab 2.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\bin\Debug\Lab 2.dll
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\bin\Debug\Lab_2.Lab_2.apk
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\bin\Debug\Lab_2.Lab_2-Signed.apk
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\obj\Debug\Lab 2.dll
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\obj\Debug\android\bin\Lab_2.Lab_2.apk
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\obj\Debug\res\layout\main.xml
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\obj\Debug\res\values\strings.xml
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\obj\Debug\R.cs.flag
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\obj\Debug\uploadflags.txt
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\bin\Debug\Lab 2.dll.mdb
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\obj\Debug\android\assets\Lab 2.dll.mdb
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\obj\Debug\res\layout\thecode.xml
+C:\Users\Austin\Desktop\Android\lab2\Lab 2\Lab 2\bin\Debug\Lab 2.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\Lab 2.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
